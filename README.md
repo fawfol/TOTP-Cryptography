@@ -1,5 +1,7 @@
 # TOPT-Enryption
-Note: I thought of this project after watching  avideo about google authenticator and how it works:
+Note: I thought of this project after watching  avideo about google authenticator and how it works
+
+A Brief explanation:
 
 I have very less prior knowledge that can be anyhow related to crpytography
 
